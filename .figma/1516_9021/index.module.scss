@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+.presentationImages {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 6700px;
+  height: 2020px;
+
+  .purityImage4 {
+    margin-top: 100px;
+    width: 1600px;
+    height: 960px;
+  }
+
+  .group8 {
+    width: 1600px;
+    height: 960px;
+  }
+
+  .purityImage3 {
+    margin-top: 1060px;
+    width: 1600px;
+    height: 960px;
+  }
+
+  .autoWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+
+    .coverPurityUiDashboa {
+      display: flex;
+      align-items: center;
+      align-self: stretch;
+      border-radius: 40px;
+      overflow: hidden;
+    }
+  }
+
+  .autoWrapper2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+  }
+}
