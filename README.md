@@ -2,6 +2,11 @@
 
 A full-stack web dashboard for analyzing stock portfolios with comprehensive financial metrics, interactive charts, and real-time portfolio adjustments.
 
+
+<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/c9a3568a-171f-4b2f-9979-a2bdcc7b53ab" />
+<img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/81ba360c-ea42-4e84-ab82-4558d2f51e47" />
+
+
 ## Features
 
 - **Ticker Input System**: Enter multiple stock tickers (comma-separated) to analyze
